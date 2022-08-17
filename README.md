@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **FrengkyG/FrengkyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working as Scrum Master
+- 🎯 I'm currently searching Flutter Developer Job
+- 🌱 I’m currently learning Flutter
+- 😄 Pronouns: He/Him
+
+
+## Certifications <br/>
+
+## Connect with me:
+
+
+## My Learning Bucket List : 
+- Flutter BLOC State Management
+- 
