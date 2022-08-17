@@ -34,12 +34,12 @@ Udemy [Flutter & Dart - The Complete Guide [2022 Edition]](https://www.udemy.com
 Dicoding [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/certificates/N9ZO7470YZG5) <br>
 Dicoding [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/4EXG6Y51EZRL) <br>
 Dicoding [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates/53XEWLM6VXRN) <br>
-<br><br>
+<br>
 
 ## 🌱 My Learning Bucket List : 
 - Flutter BLOC State Management
 - [Flutter Developer Expert](https://www.dicoding.com/academies/199)
-<br><br>
+<br>
 
 ## 📫 How to reach me
 [<img src="https://github.com/FrengkyG/FrengkyG/blob/main/images/social/linkedin-logo.png" height="50"/>](https://www.linkedin.com/in/frengky-gunawan/)
