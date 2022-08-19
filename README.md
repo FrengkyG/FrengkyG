@@ -37,8 +37,9 @@ Dicoding [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates
 <br>
 
 ## 🌱 My Learning Bucket List : 
-- Flutter BLOC State Management
+- [Flutter BLOC State Management](https://bloclibrary.dev/)
 - [Flutter Developer Expert](https://www.dicoding.com/academies/199)
+- [Flutter Riverpod State Management](https://riverpod.dev/)
 <br>
 
 ## 📫 How to reach me
