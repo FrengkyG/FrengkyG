@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/FrengkyG/FrengkyG/blob/main/images/banner/banner-transparent-edit.png" />
 
 # 👋 Hi there! I'm Frengky Gunawan
-- 🔭 I’m currently working as Scrum Master
+- 🔭 I'm formerly worked as Scrum Master
+- 🔭 I’m currently working as Android Developer (Java/Kotlin)
 - 🎯 I'm currently searching Flutter Developer Job
 - 😄 Pronouns: He/Him
 <br>
