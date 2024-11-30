@@ -37,7 +37,7 @@ Dicoding [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates
 <br>
 
 ## 🌱 My Learning Bucket List : 
-[100 Days of SwiftUI] (https://www.hackingwithswift.com/100/swiftui)
+[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 <br>
 
 ## 📫 How to reach me
