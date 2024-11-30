@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 # 👋 Hi there! I'm Frengky Gunawan
 - 🔭 I'm formerly worked as Scrum Master
 - 🔭 I’m currently working as Android Developer (Java/Kotlin)
-- 🎯 I'm currently searching Flutter Developer Job
 - 😄 Pronouns: He/Him
 <br>
 
@@ -38,9 +37,7 @@ Dicoding [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates
 <br>
 
 ## 🌱 My Learning Bucket List : 
-- [Flutter BLOC State Management](https://bloclibrary.dev/)
-- [Flutter Developer Expert](https://www.dicoding.com/academies/199)
-- [Flutter Riverpod State Management](https://riverpod.dev/)
+[100 Days of SwiftUI] (https://www.hackingwithswift.com/100/swiftui)
 <br>
 
 ## 📫 How to reach me
