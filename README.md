@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 # 👋 Hi there! I'm Frengky Gunawan
 - 🔭 I'm formerly worked as Scrum Master
 - 🔭 I’m currently working as Android Developer (Java/Kotlin)
+- 🌱 I’m currently learning SwiftUI
 - 😄 Pronouns: He/Him
 <br>
 
